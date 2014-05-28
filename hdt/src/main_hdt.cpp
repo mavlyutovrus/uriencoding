@@ -53,7 +53,6 @@ struct THDTWrapper : TWrapper {
 		Name = "hdt";
 	}
 	~THDTWrapper() {
-	    cout << "before deleting\n";
 	}
 	NHDTMimic::THDTImitator& HDT;
 	bool Set(const string& key) {

@@ -36,7 +36,6 @@ struct TEmtpyWrapper : TWrapper {
 		Name = "empty_wrapper";
 	}
 	~TEmtpyWrapper() {
-	    cout << "before deleting\n";
 	}
 	bool Set(const string& key) {
 		return true;
@@ -52,7 +51,6 @@ struct TBoostUnorderedMapWrapper : TWrapper {
 		Name = "boost::unordered_map";
 	}
 	~TBoostUnorderedMapWrapper() {
-	    cout << "before deleting\n";
 	}
 	boost::unordered_map<string, char> Dictionary;
 	bool Set(const string& key) {
@@ -75,7 +73,6 @@ struct TLexicoTreeWrapper : TWrapper {
 		Name = "Lexicographic tree";
 	}
 	~TLexicoTreeWrapper() {
-	    cout << "before deleting\n";
 	}
 	NLexicoTree::KeyManager Dictionary;
 	bool Set(const string& key) {
@@ -94,7 +91,6 @@ struct TBPlusTreeWrapper : TWrapper {
 		Name = "B+ tree";
 	}
 	~TBPlusTreeWrapper() {
-	    cout << "before deleting\n";
 	}
 	NBPlusTree::BPlusTree<string, char, 10, 10> Dictionary;
 	bool Set(const string& key) {
@@ -116,7 +112,6 @@ struct THashMapWrapper : TWrapper {
 		Name = "std::unordered_map";
 	}
 	~THashMapWrapper() {
-	    cout << "before deleting\n";
 	}
 	hash_map<string, char> Dictionary;
 	bool Set(const string& key) {
@@ -137,7 +132,6 @@ struct TStdMapWrapper : TWrapper {
 		Name = "std::map";
 	}
 	~TStdMapWrapper() {
-	    cout << "before deleting\n";
 	}
 	std::map<string, char> Dictionary;
 	bool Set(const string& key) {
@@ -161,7 +155,6 @@ struct TGoogleDenseMapWrapper : TWrapper {
 		Dictionary.set_empty_key(empty_key);
 	}
 	~TGoogleDenseMapWrapper() {
-	    cout << "before deleting\n";
 	}
 	google::dense_hash_map<string, char> Dictionary;
 	bool Set(const string& key) {
@@ -184,7 +177,6 @@ struct TGoogleSparseMapWrapper : TWrapper {
 		//Dictionary.set_empty_key(empty_key);
 	}
 	~TGoogleSparseMapWrapper() {
-	    cout << "before deleting\n";
 	}
 	google::sparse_hash_map<string, char> Dictionary;
 	bool Set(const string& key) {
