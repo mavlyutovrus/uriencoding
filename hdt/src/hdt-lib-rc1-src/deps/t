@@ -1,0 +1,403 @@
+.:
+total 12K
+drwxr-xr-x 3 arslan arslan 4.0K May 28 19:38 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 19:35 ..
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 libcds-v1.0.12
+-rw-rw-r-- 1 arslan arslan    0 May 28 19:38 t
+
+./libcds-v1.0.12:
+total 88K
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 .
+drwxr-xr-x 3 arslan arslan 4.0K May 28 19:38 ..
+-rwxr-xr-x 1 arslan arslan 1.1K May 28 12:03 Changelog
+-rwxr-xr-x 1 arslan arslan  26K May 28 12:03 COPYRIGHT
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 docs
+-rwxr-xr-x 1 arslan arslan  12K May 28 12:03 Doxyfile
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 includes
+drwxr-xr-x 2 arslan arslan 4.0K May 28 19:26 lib
+-rw-r--r-- 1 arslan arslan  753 May 28 12:03 Makefile
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 qmake
+-rwxr-xr-x 1 arslan arslan  609 May 28 12:03 README
+drwxr-xr-x 4 arslan arslan 4.0K May 28 12:03 src
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 tests
+drwxr-xr-x 4 arslan arslan 4.0K May 28 19:33 tutorial
+
+./libcds-v1.0.12/docs:
+total 8.0K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rw-r--r-- 1 arslan arslan    0 May 28 12:03 delete_me
+
+./libcds-v1.0.12/includes:
+total 360K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rwxr-xr-x 1 arslan arslan 4.8K May 28 12:03 Array.h
+-rwxr-xr-x 1 arslan arslan 2.0K May 28 12:03 BitmapsSequence.h
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 BitSequenceBuilderDArray.h
+-rw-r--r-- 1 arslan arslan 1.9K May 28 12:03 BitSequenceBuilder.h
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 BitSequenceBuilderRG.h
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 BitSequenceBuilderRRR.h
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 BitSequenceBuilderSDArray.h
+-rwxr-xr-x 1 arslan arslan 2.2K May 28 12:03 BitSequenceDArray.h
+-rwxr-xr-x 1 arslan arslan 3.9K May 28 12:03 BitSequence.h
+-rwxr-xr-x 1 arslan arslan 3.3K May 28 12:03 BitSequenceRG.h
+-rwxr-xr-x 1 arslan arslan 3.9K May 28 12:03 BitSequenceRRR.h
+-rwxr-xr-x 1 arslan arslan 1.8K May 28 12:03 BitSequenceSDArray.h
+-rwxr-xr-x 1 arslan arslan 2.7K May 28 12:03 BitString.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 Coder.h
+-rwxr-xr-x 1 arslan arslan 2.8K May 28 12:03 comparray4.h
+-rw-r--r-- 1 arslan arslan 2.5K May 28 12:03 cppUtils.h
+-rw-r--r-- 1 arslan arslan    0 May 28 12:03 delete_me
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 factorization.h
+-rwxr-xr-x 1 arslan arslan 2.4K May 28 12:03 factorization_var.h
+-rwxr-xr-x 1 arslan arslan 2.6K May 28 12:03 huff.h
+-rwxr-xr-x 1 arslan arslan 2.2K May 28 12:03 HuffmanCoder.h
+-rwxr-xr-x 1 arslan arslan 4.1K May 28 12:03 interface.h
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 LCP_DAC.h
+-rwxr-xr-x 1 arslan arslan 2.0K May 28 12:03 LCP_DAC_VAR.h
+-rwxr-xr-x 1 arslan arslan 2.2K May 28 12:03 LCP_FMN.h
+-rwxr-xr-x 1 arslan arslan 2.4K May 28 12:03 LCP.h
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 LCP_naive.h
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 LCP_PhiSpare.h
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 LCP_PT.h
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 LCP_Sad.h
+-rwxr-xr-x 1 arslan arslan 8.1K May 28 12:03 libcdsBasics.h
+-rwxr-xr-x 1 arslan arslan 4.4K May 28 12:03 libcdsSDArray.h
+-rwxr-xr-x 1 arslan arslan 2.9K May 28 12:03 libcdsTrees.h
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 MapperCont.h
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 Mapper.h
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 MapperNone.h
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 MapperRev.h
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 mmap.h
+-rwxr-xr-x 1 arslan arslan 2.7K May 28 12:03 NPR_CN.h
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 NPR_FMN.h
+-rwxr-xr-x 1 arslan arslan 2.0K May 28 12:03 NPR.h
+-rwxr-xr-x 1 arslan arslan 2.3K May 28 12:03 NSV.h
+-rwxr-xr-x 1 arslan arslan 2.2K May 28 12:03 perm.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 PermutationBuilder.h
+-rwxr-xr-x 1 arslan arslan 1.3K May 28 12:03 PermutationBuilderMRRR.h
+-rwxr-xr-x 1 arslan arslan 1.2K May 28 12:03 PermutationBuilderWT.h
+-rwxr-xr-x 1 arslan arslan 1.8K May 28 12:03 Permutation.h
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 PermutationMRRR.h
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 PermutationWT.h
+-rwxr-xr-x 1 arslan arslan 2.3K May 28 12:03 PSV.h
+-rwxr-xr-x 1 arslan arslan 3.6K May 28 12:03 RMQ_succinct.h
+-rwxr-xr-x 1 arslan arslan 3.4K May 28 12:03 RMQ_succinct_lcp.h
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 sdarraySadakane.h
+-rwxr-xr-x 1 arslan arslan 2.5K May 28 12:03 SequenceAlphPart.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderAlphPart.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderGMRChunk.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderGMR.h
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 SequenceBuilder.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderStr.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderWaveletMatrix.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderWaveletTree.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderWaveletTreeNoptrs.h
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 SequenceBuilderWaveletTreeNoptrsS.h
+-rwxr-xr-x 1 arslan arslan 2.5K May 28 12:03 SequenceGMRChunk.h
+-rwxr-xr-x 1 arslan arslan 2.3K May 28 12:03 SequenceGMR.h
+-rwxr-xr-x 1 arslan arslan 2.8K May 28 12:03 Sequence.h
+-rwxr-xr-x 1 arslan arslan 3.8K May 28 12:03 SuffixTree.h
+-rwxr-xr-x 1 arslan arslan 4.6K May 28 12:03 SuffixTreeY.h
+-rwxr-xr-x 1 arslan arslan 3.1K May 28 12:03 TableOffsetRRR.h
+-rwxr-xr-x 1 arslan arslan 4.4K May 28 12:03 TextIndexCSA.h
+-rwxr-xr-x 1 arslan arslan 3.9K May 28 12:03 TextIndex.h
+-rwxr-xr-x 1 arslan arslan 1.2K May 28 12:03 timing.h
+-rwxr-xr-x 1 arslan arslan 2.7K May 28 12:03 WaveletMatrix.h
+-rwxr-xr-x 1 arslan arslan 3.4K May 28 12:03 WaveletTree.h
+-rwxr-xr-x 1 arslan arslan 3.8K May 28 12:03 WaveletTreeNoptrs.h
+-rwxr-xr-x 1 arslan arslan 3.2K May 28 12:03 WaveletTreeNoptrsS.h
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 wt_coder_binary.h
+-rwxr-xr-x 1 arslan arslan 2.4K May 28 12:03 wt_coder.h
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 wt_coder_huff.h
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 wt_node.h
+-rwxr-xr-x 1 arslan arslan 2.3K May 28 12:03 wt_node_internal.h
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 wt_node_leaf.h
+
+./libcds-v1.0.12/lib:
+total 8.0K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 19:26 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rw-r--r-- 1 arslan arslan    0 May 28 12:03 delete_me
+
+./libcds-v1.0.12/qmake:
+total 20K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rw-r--r-- 1 arslan arslan 8.1K May 28 12:03 libcds.pro
+
+./libcds-v1.0.12/src:
+total 20K
+drwxr-xr-x 4 arslan arslan 4.0K May 28 12:03 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rw-r--r-- 1 arslan arslan 3.8K May 28 12:03 Makefile
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 static
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 utils
+
+./libcds-v1.0.12/src/static:
+total 36K
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 .
+drwxr-xr-x 4 arslan arslan 4.0K May 28 12:03 ..
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 bitsequence
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 coders
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 mapper
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 permutation
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 sequence
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 suffixtree
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 textindex
+
+./libcds-v1.0.12/src/static/bitsequence:
+total 140K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rwxr-xr-x 1 arslan arslan 1.3K May 28 12:03 BitSequenceBuilderDArray.cpp
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 BitSequenceBuilderDArray.h
+-rw-r--r-- 1 arslan arslan 1.9K May 28 12:03 BitSequenceBuilder.h
+-rwxr-xr-x 1 arslan arslan 1.3K May 28 12:03 BitSequenceBuilderRG.cpp
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 BitSequenceBuilderRG.h
+-rwxr-xr-x 1 arslan arslan 1.3K May 28 12:03 BitSequenceBuilderRRR.cpp
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 BitSequenceBuilderRRR.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 BitSequenceBuilderSDArray.cpp
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 BitSequenceBuilderSDArray.h
+-rwxr-xr-x 1 arslan arslan 3.4K May 28 12:03 BitSequence.cpp
+-rwxr-xr-x 1 arslan arslan 7.1K May 28 12:03 BitSequenceDArray.cpp
+-rwxr-xr-x 1 arslan arslan 2.2K May 28 12:03 BitSequenceDArray.h
+-rwxr-xr-x 1 arslan arslan 3.9K May 28 12:03 BitSequence.h
+-rwxr-xr-x 1 arslan arslan 9.3K May 28 12:03 BitSequenceRG.cpp
+-rwxr-xr-x 1 arslan arslan 3.3K May 28 12:03 BitSequenceRG.h
+-rw-r--r-- 1 arslan arslan  13K May 28 12:03 BitSequenceRRR.cpp
+-rwxr-xr-x 1 arslan arslan 3.9K May 28 12:03 BitSequenceRRR.h
+-rwxr-xr-x 1 arslan arslan 3.0K May 28 12:03 BitSequenceSDArray.cpp
+-rwxr-xr-x 1 arslan arslan 1.8K May 28 12:03 BitSequenceSDArray.h
+-rwxr-xr-x 1 arslan arslan   37 May 28 12:03 Makefile
+-rwxr-xr-x 1 arslan arslan  13K May 28 12:03 sdarraySadakane.cpp
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 sdarraySadakane.h
+-rwxr-xr-x 1 arslan arslan 3.4K May 28 12:03 TableOffsetRRR.cpp
+-rwxr-xr-x 1 arslan arslan 3.1K May 28 12:03 TableOffsetRRR.h
+
+./libcds-v1.0.12/src/static/coders:
+total 36K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 Coder.h
+-rwxr-xr-x 1 arslan arslan 5.9K May 28 12:03 huff.cpp
+-rwxr-xr-x 1 arslan arslan 2.6K May 28 12:03 huff.h
+-rwxr-xr-x 1 arslan arslan 2.7K May 28 12:03 HuffmanCoder.cpp
+-rwxr-xr-x 1 arslan arslan 2.2K May 28 12:03 HuffmanCoder.h
+-rwxr-xr-x 1 arslan arslan   37 May 28 12:03 Makefile
+
+./libcds-v1.0.12/src/static/mapper:
+total 44K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rwxr-xr-x 1 arslan arslan   37 May 28 12:03 Makefile
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 MapperCont.cpp
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 MapperCont.h
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 Mapper.cpp
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 Mapper.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 MapperNone.cpp
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 MapperNone.h
+-rwxr-xr-x 1 arslan arslan 2.4K May 28 12:03 MapperRev.cpp
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 MapperRev.h
+
+./libcds-v1.0.12/src/static/permutation:
+total 68K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rwxr-xr-x 1 arslan arslan   34 May 28 12:03 Makefile
+-rwxr-xr-x 1 arslan arslan 5.6K May 28 12:03 perm.cpp
+-rwxr-xr-x 1 arslan arslan 2.2K May 28 12:03 perm.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 PermutationBuilder.h
+-rwxr-xr-x 1 arslan arslan 1.3K May 28 12:03 PermutationBuilderMRRR.cpp
+-rwxr-xr-x 1 arslan arslan 1.3K May 28 12:03 PermutationBuilderMRRR.h
+-rwxr-xr-x 1 arslan arslan  941 May 28 12:03 PermutationBuilderWT.cpp
+-rwxr-xr-x 1 arslan arslan 1.2K May 28 12:03 PermutationBuilderWT.h
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 Permutation.cpp
+-rwxr-xr-x 1 arslan arslan 1.8K May 28 12:03 Permutation.h
+-rwxr-xr-x 1 arslan arslan 1.8K May 28 12:03 PermutationMRRR.cpp
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 PermutationMRRR.h
+-rwxr-xr-x 1 arslan arslan 2.3K May 28 12:03 PermutationWT.cpp
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 PermutationWT.h
+
+./libcds-v1.0.12/src/static/sequence:
+total 272K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rwxr-xr-x 1 arslan arslan 4.7K May 28 12:03 BitmapsSequence.cpp
+-rwxr-xr-x 1 arslan arslan 2.0K May 28 12:03 BitmapsSequence.h
+-rwxr-xr-x 1 arslan arslan   37 May 28 12:03 Makefile
+-rwxr-xr-x 1 arslan arslan  12K May 28 12:03 SequenceAlphPart.cpp
+-rwxr-xr-x 1 arslan arslan 2.5K May 28 12:03 SequenceAlphPart.h
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 SequenceBuilderAlphPart.cpp
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderAlphPart.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderGMRChunk.cpp
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderGMRChunk.h
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 SequenceBuilderGMR.cpp
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderGMR.h
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 SequenceBuilder.h
+-rwxr-xr-x 1 arslan arslan 9.0K May 28 12:03 SequenceBuilderStr.cpp
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderStr.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderWaveletMatrix.cpp
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderWaveletMatrix.h
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 SequenceBuilderWaveletTree.cpp
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderWaveletTree.h
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderWaveletTreeNoptrs.cpp
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceBuilderWaveletTreeNoptrs.h
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 SequenceBuilderWaveletTreeNoptrsS.cpp
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 SequenceBuilderWaveletTreeNoptrsS.h
+-rwxr-xr-x 1 arslan arslan 2.4K May 28 12:03 Sequence.cpp
+-rwxr-xr-x 1 arslan arslan 5.3K May 28 12:03 SequenceGMRChunk.cpp
+-rwxr-xr-x 1 arslan arslan 2.5K May 28 12:03 SequenceGMRChunk.h
+-rwxr-xr-x 1 arslan arslan 6.7K May 28 12:03 SequenceGMR.cpp
+-rwxr-xr-x 1 arslan arslan 2.3K May 28 12:03 SequenceGMR.h
+-rwxr-xr-x 1 arslan arslan 2.8K May 28 12:03 Sequence.h
+-rwxr-xr-x 1 arslan arslan 8.7K May 28 12:03 WaveletMatrix.cpp
+-rwxr-xr-x 1 arslan arslan 2.7K May 28 12:03 WaveletMatrix.h
+-rwxr-xr-x 1 arslan arslan 5.3K May 28 12:03 WaveletTree.cpp
+-rwxr-xr-x 1 arslan arslan 3.4K May 28 12:03 WaveletTree.h
+-rwxr-xr-x 1 arslan arslan  15K May 28 12:03 WaveletTreeNoptrs.cpp
+-rwxr-xr-x 1 arslan arslan 3.8K May 28 12:03 WaveletTreeNoptrs.h
+-rwxr-xr-x 1 arslan arslan  13K May 28 12:03 WaveletTreeNoptrsS.cpp
+-rwxr-xr-x 1 arslan arslan 3.2K May 28 12:03 WaveletTreeNoptrsS.h
+-rwxr-xr-x 1 arslan arslan 2.7K May 28 12:03 wt_coder_binary.cpp
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 wt_coder_binary.h
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 wt_coder.cpp
+-rwxr-xr-x 1 arslan arslan 2.4K May 28 12:03 wt_coder.h
+-rwxr-xr-x 1 arslan arslan 3.4K May 28 12:03 wt_coder_huff.cpp
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 wt_coder_huff.h
+-rwxr-xr-x 1 arslan arslan 1.3K May 28 12:03 wt_node.cpp
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 wt_node.h
+-rwxr-xr-x 1 arslan arslan 9.2K May 28 12:03 wt_node_internal.cpp
+-rwxr-xr-x 1 arslan arslan 2.3K May 28 12:03 wt_node_internal.h
+-rwxr-xr-x 1 arslan arslan 2.4K May 28 12:03 wt_node_leaf.cpp
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 wt_node_leaf.h
+
+./libcds-v1.0.12/src/static/suffixtree:
+total 248K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rwxr-xr-x 1 arslan arslan 7.6K May 28 12:03 factorization.cpp
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 factorization.h
+-rwxr-xr-x 1 arslan arslan 8.1K May 28 12:03 factorization_var.cpp
+-rwxr-xr-x 1 arslan arslan 2.4K May 28 12:03 factorization_var.h
+-rwxr-xr-x 1 arslan arslan 3.2K May 28 12:03 LCP.cpp
+-rwxr-xr-x 1 arslan arslan 2.4K May 28 12:03 LCP_DAC.cpp
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 LCP_DAC.h
+-rwxr-xr-x 1 arslan arslan 5.5K May 28 12:03 LCP_DAC_VAR.cpp
+-rwxr-xr-x 1 arslan arslan 2.0K May 28 12:03 LCP_DAC_VAR.h
+-rwxr-xr-x 1 arslan arslan 4.3K May 28 12:03 LCP_FMN.cpp
+-rwxr-xr-x 1 arslan arslan 2.2K May 28 12:03 LCP_FMN.h
+-rwxr-xr-x 1 arslan arslan 2.4K May 28 12:03 LCP.h
+-rwxr-xr-x 1 arslan arslan 2.5K May 28 12:03 LCP_naive.cpp
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 LCP_naive.h
+-rwxr-xr-x 1 arslan arslan 4.0K May 28 12:03 LCP_PhiSpare.cpp
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 LCP_PhiSpare.h
+-rwxr-xr-x 1 arslan arslan 5.9K May 28 12:03 LCP_PT.cpp
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 LCP_PT.h
+-rwxr-xr-x 1 arslan arslan 3.9K May 28 12:03 LCP_Sad.cpp
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 LCP_Sad.h
+-rwxr-xr-x 1 arslan arslan   37 May 28 12:03 Makefile
+-rwxr-xr-x 1 arslan arslan  12K May 28 12:03 NPR_CN.cpp
+-rwxr-xr-x 1 arslan arslan 2.7K May 28 12:03 NPR_CN.h
+-rwxr-xr-x 1 arslan arslan 1.2K May 28 12:03 NPR.cpp
+-rwxr-xr-x 1 arslan arslan 2.8K May 28 12:03 NPR_FMN.cpp
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 NPR_FMN.h
+-rwxr-xr-x 1 arslan arslan 2.0K May 28 12:03 NPR.h
+-rwxr-xr-x 1 arslan arslan 8.3K May 28 12:03 NSV.cpp
+-rwxr-xr-x 1 arslan arslan 2.3K May 28 12:03 NSV.h
+-rwxr-xr-x 1 arslan arslan 9.2K May 28 12:03 PSV.cpp
+-rwxr-xr-x 1 arslan arslan 2.3K May 28 12:03 PSV.h
+-rwxr-xr-x 1 arslan arslan  15K May 28 12:03 RMQ_succinct.cpp
+-rwxr-xr-x 1 arslan arslan 3.6K May 28 12:03 RMQ_succinct.h
+-rwxr-xr-x 1 arslan arslan  15K May 28 12:03 RMQ_succinct_lcp.cpp
+-rwxr-xr-x 1 arslan arslan 3.4K May 28 12:03 RMQ_succinct_lcp.h
+-rwxr-xr-x 1 arslan arslan 1.1K May 28 12:03 SuffixTree.cpp
+-rwxr-xr-x 1 arslan arslan 3.8K May 28 12:03 SuffixTree.h
+-rwxr-xr-x 1 arslan arslan  12K May 28 12:03 SuffixTreeY.cpp
+-rwxr-xr-x 1 arslan arslan 4.6K May 28 12:03 SuffixTreeY.h
+
+./libcds-v1.0.12/src/static/textindex:
+total 100K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rwxr-xr-x 1 arslan arslan  21K May 28 12:03 comparray4.cpp
+-rwxr-xr-x 1 arslan arslan 2.8K May 28 12:03 comparray4.h
+-rwxr-xr-x 1 arslan arslan 4.1K May 28 12:03 interface.h
+-rwxr-xr-x 1 arslan arslan   37 May 28 12:03 Makefile
+-rwxr-xr-x 1 arslan arslan 2.4K May 28 12:03 mmap.cpp
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 mmap.h
+-rwxr-xr-x 1 arslan arslan 9.8K May 28 12:03 qsufsort.cpp
+-rwxr-xr-x 1 arslan arslan  11K May 28 12:03 suftest3.test.cpp
+-rwxr-xr-x 1 arslan arslan 1.2K May 28 12:03 TextIndex.cpp
+-rwxr-xr-x 1 arslan arslan 2.8K May 28 12:03 TextIndexCSA.cpp
+-rwxr-xr-x 1 arslan arslan 4.4K May 28 12:03 TextIndexCSA.h
+-rwxr-xr-x 1 arslan arslan 3.9K May 28 12:03 TextIndex.h
+
+./libcds-v1.0.12/src/utils:
+total 72K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:45 .
+drwxr-xr-x 4 arslan arslan 4.0K May 28 12:03 ..
+-rwxr-xr-x 1 arslan arslan 3.6K May 28 12:03 Array.cpp
+-rwxr-xr-x 1 arslan arslan 4.8K May 28 12:03 Array.h
+-rwxr-xr-x 1 arslan arslan 2.0K May 28 12:03 BitString.cpp
+-rwxr-xr-x 1 arslan arslan 2.7K May 28 12:03 BitString.h
+-rwxr-xr-x 1 arslan arslan  601 May 28 12:03 cppUtils.cpp
+-rw-r--r-- 1 arslan arslan 2.5K May 28 12:03 cppUtils.h
+-rwxr-xr-x 1 arslan arslan 8.1K May 28 12:03 libcdsBasics.h
+-rwxr-xr-x 1 arslan arslan 4.4K May 28 12:03 libcdsSDArray.h
+-rwxr-xr-x 1 arslan arslan 2.9K May 28 12:03 libcdsTrees.h
+-rwxr-xr-x 1 arslan arslan   34 May 28 12:03 Makefile
+-rwxr-xr-x 1 arslan arslan 1.3K May 28 12:03 timing.cpp
+-rwxr-xr-x 1 arslan arslan 1.2K May 28 12:03 timing.h
+
+./libcds-v1.0.12/tests:
+total 68K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+-rwxr-xr-x 1 arslan arslan 2.0K May 28 12:03 Makefile
+-rwxr-xr-x 1 arslan arslan  964 May 28 12:03 runTests.py
+-rwxr-xr-x 1 arslan arslan 3.1K May 28 12:03 testArray.cpp
+-rwxr-xr-x 1 arslan arslan 3.0K May 28 12:03 testBitSequence.cpp
+-rwxr-xr-x 1 arslan arslan 1.2K May 28 12:03 testHuffman.cpp
+-rwxr-xr-x 1 arslan arslan 3.7K May 28 12:03 testLCP.cpp
+-rwxr-xr-x 1 arslan arslan 3.8K May 28 12:03 testNPR.cpp
+-rwxr-xr-x 1 arslan arslan 3.2K May 28 12:03 testQuantile.cpp
+-rwxr-xr-x 1 arslan arslan 3.0K May 28 12:03 testSequence.cpp
+-rwxr-xr-x 1 arslan arslan 1.8K May 28 12:03 testSuffixTree.cpp
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 testTextIndex.cpp
+-rwxr-xr-x 1 arslan arslan 4.3K May 28 12:03 timeSequence.cpp
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 toArray2.cpp
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 toArray.cpp
+
+./libcds-v1.0.12/tutorial:
+total 16K
+drwxr-xr-x 4 arslan arslan 4.0K May 28 19:33 .
+drwxr-xr-x 9 arslan arslan 4.0K May 28 12:03 ..
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 src
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 ssa
+
+./libcds-v1.0.12/tutorial/src:
+total 44K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 .
+drwxr-xr-x 4 arslan arslan 4.0K May 28 19:33 ..
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 ArrayExample2.cpp
+-rwxr-xr-x 1 arslan arslan 1.3K May 28 12:03 ArrayExample.cpp
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 BitSequenceRGExample.cpp
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 BitSequenceRRRExample.cpp
+-rwxr-xr-x 1 arslan arslan 1.6K May 28 12:03 BitSequenceSDArrayExample.cpp
+-rwxr-xr-x 1 arslan arslan 1.9K May 28 12:03 Makefile
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 SequenceAlphPartExample.cpp
+-rwxr-xr-x 1 arslan arslan 1.5K May 28 12:03 SequenceGMRExample.cpp
+-rwxr-xr-x 1 arslan arslan 1.4K May 28 12:03 SequenceWaveletTreeExample.cpp
+
+./libcds-v1.0.12/tutorial/ssa:
+total 40K
+drwxr-xr-x 2 arslan arslan 4.0K May 28 12:03 .
+drwxr-xr-x 4 arslan arslan 4.0K May 28 19:33 ..
+-rwxr-xr-x 1 arslan arslan 1.7K May 28 12:03 build_index.cpp
+-rwxr-xr-x 1 arslan arslan 1.1K May 28 12:03 dump_bwt.cpp
+-rwxr-xr-x 1 arslan arslan  952 May 28 12:03 Makefile
+-rwxr-xr-x 1 arslan arslan 8.9K May 28 12:03 ssa.cpp
+-rwxr-xr-x 1 arslan arslan 2.1K May 28 12:03 ssa.h
+-rwxr-xr-x 1 arslan arslan 2.6K May 28 12:03 test_count.cpp
